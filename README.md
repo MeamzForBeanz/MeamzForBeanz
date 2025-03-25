@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @MeamzForBeanz
-- 👀 I’m interested in deez
-- 🌱 I’m currently learning nuts
-- 💞️ I’m looking to collaborate on joe
-- 📫 How to reach me yourmom.com
+Hi I program in c++ and Lua a lot so this is my repository. Sometimes I do java minecraft modding, but it can be a headache.
 
 <!---
 MeamzForBeanz/MeamzForBeanz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
